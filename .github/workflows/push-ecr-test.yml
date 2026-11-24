@@ -9,8 +9,8 @@ on:
         default: "0.0.4.385-dev"
 
 env:
-  AWS_REGION: ap-southeast-1
-  ECR_REGISTRY: 739275437487.dkr.ecr.us-east-1.amazonaws.com
+  AWS_REGION: us-east-1
+  ECR_REGISTRY: 096644267491.dkr.ecr.us-east-1.amazonaws.com
   ECR_REPOSITORY: netsbiz-adminportal-backend
 
 jobs:
